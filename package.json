@@ -1,0 +1,25 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "ALAB 318.2.1 - Building an Express Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erisha/expressLab.git"
+  },
+  "author": "Erisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erisha/expressLab/issues"
+  },
+  "homepage": "https://github.com/erisha/expressLab#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
