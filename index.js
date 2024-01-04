@@ -12,3 +12,9 @@ app.get('/', (req,res) => {
     console.log(req.url);
     res.send('<h1>Homepage</h1>')
 })
+
+
+
+app.listen(PORT, () => {
+    console.log(`Server is running on ${PORT}`);
+})
